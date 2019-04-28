@@ -316,8 +316,9 @@ body {
   .container {
     flex-direction: column;
   }
-  .profile {
-
+  .profile-avatar {
+  width: 360px;
+  margin: auto;
   }
   .resume {
 
