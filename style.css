@@ -319,6 +319,8 @@ body {
   .profile-avatar {
   width: 360px;
   margin: auto;
+  border-radius: 50%;
+  margin-top: 20px;
   }
   .resume {
 
