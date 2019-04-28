@@ -307,4 +307,8 @@ body {
   width: 0;
 }
 
-@media ()
+@media (max-width: 1024px) {
+  .container {
+    width: 90%;
+  }
+}
