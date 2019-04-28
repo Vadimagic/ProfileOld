@@ -295,3 +295,17 @@ body {
 .level-sql:before {
   width: 40%;
 }
+.level-angular:before {
+  width: 0;
+}
+.level-react:before {
+  width: 0;
+}
+.level-vuejs:before {
+  width: 0;
+}
+.level-nodejs:before {
+  width: 0;
+}
+
+@media ()
