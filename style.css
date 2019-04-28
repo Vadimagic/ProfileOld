@@ -5,7 +5,6 @@ html {
   box-sizing: inherit;
 }
 body {
-  background-color: #323132;
   font-family: Arial;
 }
 .container {
@@ -14,7 +13,7 @@ body {
   background-color: #eaeaea;
   margin: 20px auto;
   justify-content: space-between;
- /* box-shadow: 0 0 8px #D6D6D6;*/
+  box-shadow: 0 0 8px #D6D6D6;
 }
 .profile {
   flex-basis: 37%;
