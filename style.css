@@ -306,6 +306,9 @@ body {
 .level-nodejs:before {
   width: 0;
 }
+.level-git:before {
+  width: 60%;
+}
 
 @media (max-width: 1024px) {
   .container  {
