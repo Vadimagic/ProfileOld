@@ -346,9 +346,30 @@ body {
     display: none;
   }
 }
-@media (max-width: 660px) {
-  
+@media (max-width: 567px) {
+  .logo-img {
+    width: 70px;
+    height: 70px;
+  }
+  .logo-lines {
+    margin-left: 8px;
+    margin-right: 8px;
+  }
 }
 @media (max-width: 480px) {
-  
+  .logo {
+    display: none;
+  }
+  .container {
+    min-width: 320px;
+  }
+  .profile-avatar {
+    width: 100%;
+    margin: auto;
+    border-radius: 0 0 20% 20%;
+  /*margin-top: 20px;*/
+  }
+  .level {
+    width: 50%;
+  }
 }
