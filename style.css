@@ -261,7 +261,6 @@ body {
 .level {
   width: 60%;
   height: 8px;
-  border: 1px solid #39383a;
   position: relative;
   background-color: #CCC;
 }
